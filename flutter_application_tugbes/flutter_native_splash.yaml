@@ -1,0 +1,9 @@
+flutter_native_splash:
+  color: "#F5D442"
+  image: assets\billhub.png
+
+  android_12:
+    color: "#F5D442"
+    image: assets\billhub.png
+
+  web: true
